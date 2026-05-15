@@ -23,9 +23,9 @@ _*Subject to change depending on the number of submissions and other factors._
 - **CFP Deadline Extension**: March 23 
 - **Reviewer Deadline**: April 10
 - **Panel Finalization**: April 28
-- **Speaker Notifications**: May 15
-- **Schedule Announcement**: June 15
-- **Start of Keynote Announcements**: July 7
+- **Speaker Notifications**: June 8
+- **Schedule Announcement**: June 22
+- **Start of Keynote Announcements**: July 1
 
 
 ## Call for Proposals Opens
